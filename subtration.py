@@ -1,4 +1,3 @@
-selectmode = int(input("모드를 선택하세요, 덧셈:0, 뺄셈:1, 곱셈:2, 나눗셈:3"))
 # 두 숫자를 입력받습니다.
 num1 = float(input("첫 번째 숫자를 입력하세요: "))
 num2 = float(input("두 번째 숫자를 입력하세요: "))
